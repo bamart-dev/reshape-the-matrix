@@ -1,4 +1,4 @@
-# Ada C23 - PSE 06: Merging Sorted Lists
+# Ada C23 - PSE 07: Reshape The Matrix
 ### Problem Statement
 In MATLAB, a programming platform for numeric computing, there is a very useful function called 'reshape', which can reshape a matrix into a new one with different size but keep its original data.
 
